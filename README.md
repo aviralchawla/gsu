@@ -1,1 +1,1 @@
-# Gus
+# GSU Stipends Working Group
