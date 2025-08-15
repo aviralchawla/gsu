@@ -1,0 +1,16 @@
+[
+  { "category": "Total Salary", "value": 27000 },
+  { "category": "Food","value": -6168 },
+  { "category": "Housing","value": -19536 },
+  { "category": "Transportation","value": -5796 },
+  { "category": "Health Care","value": -3816 },
+  { "category": "Dental Care","value": -276 },
+  { "category": "Child Care","value": -13056 },
+  { "category": "House Exp","value": -2796 },
+  { "category": "Personal Care","value": -1704 },
+  { "category": "Telecom","value": -1404 },
+  { "category": "Rental Insur","value": -228 },
+  { "category": "Life Insur", "value": -504},
+  { "category": "Savings", "value": -2760},
+  { "category": "Taxes", "value": -9714}
+]

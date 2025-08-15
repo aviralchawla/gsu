@@ -1,0 +1,9 @@
+[
+  { "category": "Total Salary", "value": 33000 },
+  { "category": "Rent","value": -9600 },
+  { "category": "Food","value": -3000 },
+  { "category": "Transport","value": -2000 },
+  { "category": "Entertainment","value": -1000 },
+  { "category": "Utilities","value": -4000 },
+  { "category": "Miscellaneous","value": -1000 }
+]
