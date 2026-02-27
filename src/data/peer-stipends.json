@@ -1,0 +1,7 @@
+[
+  { "institution": "UVM (current)", "annual": 34375, "type": "UVM" },
+  { "institution": "Rutgers (AAUP-AFT)", "annual": 36395, "type": "Peer institution" },
+  { "institution": "GEO-UAW 2322 demand", "annual": 40000, "type": "Union demand" },
+  { "institution": "Univ. of Michigan (GEO)", "annual": 41308, "type": "Peer institution" },
+  { "institution": "Columbia University", "annual": 47100, "type": "Peer institution" }
+]
