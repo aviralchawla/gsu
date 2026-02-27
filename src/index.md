@@ -365,15 +365,19 @@ function plotPercentChange(data, scenario, base_year, compare_years, width) {
     color: {
       legend: true,
       label: "Year",
+      type: "ordinal",
+      domain: ["2022", "2024"],
+      range: ["#4c78a8", "#f58518"]
     },
     marks: [
       Plot.ruleY([0], { stroke: "black"}),
-      Plot.barY(pctDataCommon, Plot.dodgeX("middle", {
+      Plot.barY(pctDataCommon, {
         x: "category",
         y: "percentChange",
         fill: "year",
+        dodge: true,
         title: d => `${d.category} (${d.year})\n${d.percentChange.toFixed(1)}%`
-      }))
+      })
     ]
   })
 }
